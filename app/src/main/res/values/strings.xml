@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">groceryrunv1</string>
+    <string name="title_activity_dashboard4">Dashboard4</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="Dashboard">Dashboard</string>
+    <string name="Done">Done</string>
+    <string name="StartNewList">Start New List</string>
+    <string name="PreviousLists">Previous Lists</string>
+    <string name="Map">Map</string>
+    <string name="Exit">Exit</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_list_of_stores">ListOfStores</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_select_stores">SelectStores</string>
+
+    <string name="or_separator">--------------OR-------------</string>
+    <string name="login">LOG IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="logout">Logout</string>
+    <string name="continue_without_account">Continue Without an Account</string>
+
+    <string name="welcome">WELCOME</string>
+    <string name="title_activity_results_page">resultsPage</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
